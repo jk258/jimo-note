@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjimo=self.webpackChunkjimo||[]).push([[9861],{3668:e=>{e.exports=JSON.parse('{"title":"\u5176\u4ed6","slug":"/category/\u5176\u4ed6","permalink":"/docs/category/\u5176\u4ed6","navigation":{"next":{"title":"\u63d2\u4ef6","permalink":"/docs/\u524d\u7aef/\u5176\u4ed6/\u63d2\u4ef6"}}}')}}]);
