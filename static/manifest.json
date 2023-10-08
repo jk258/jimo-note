@@ -3,12 +3,12 @@
 	"name": "即墨",
 	"icons": [
 		{
-			"src": "/img/docusaurus.png",
+			"src": "/jimo-note/img/docusaurus.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		},
 		{
-			"src": "/img/docusaurus.png",
+			"src": "/jimo-note/img/docusaurus.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		}
