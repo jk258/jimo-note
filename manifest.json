@@ -19,6 +19,21 @@
 	"display": "standalone",
 	"scope": "/",
 	"theme_color": "#3367D6",
-
+  "shortcuts":[
+    {
+			"name": "首页",
+			"short_name": "首页",
+			"description": "首页",
+			"url": "/jimo-note/",
+			"icons": [{ "src": "/jimo-note/img/docusaurus.png", "sizes": "192x192" }]
+		},
+    {
+			"name": "前端",
+			"short_name": "前端",
+			"description": "前端文档",
+			"url": "/jimo-note/docs/category/%E5%85%B6%E4%BB%96?source=pwa",
+			"icons": [{ "src": "/jimo-note/img/docusaurus.png", "sizes": "192x192" }]
+		}
+  ],
 	"description": "即墨的个人文档"
 }
