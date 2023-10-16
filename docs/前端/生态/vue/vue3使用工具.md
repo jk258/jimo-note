@@ -6,18 +6,12 @@ https://element-plus.org/zh-CN/
 ### 2.    Ant Design of Vue
 Ant Design 的 Vue 实现，开发和服务于企业级后台产品
 https://www.antdv.com/docs/vue/introduce-cn
-### 3.    BalmUI
-基于谷歌的 Material Design，附带 Vue 插件和指令，以及从简单到复杂的高度可定制组件
-https://next-material.balmjs.com/
 ### 4.    Naive UI
 图森Vue3的组件库，文档完整，我项目中经常使用
 https://www.naiveui.com/zh-CN/os-theme
 ### 5.    arco.design
 字节跳动企业级产品设计系统，支持React和Vue双版本
 https://arco.design/
-### 6,     Quasar
-轻松构建高性能和高质量的Vue.js 3用户界面，好用，但没有中文文档
-https://quasar.dev/
 ### 7.      iDUX
 Vue3.x 的 UI 组件库，完全使用 TypeScript 开发
 https://idux.site/
@@ -76,6 +70,9 @@ https://github.com/prazdevs/pinia-plugin-persistedstate
 一个基于 Vue.js 的终端 UI 框架，可让您轻松构建现代终端应用程序
 https://vue-termui.dev/
 ## 4.可视化
+### vue-office
+支持多种文件(docx、excel、pdf)预览的vue组件库，支持vue2/3。也支持非Vue框架的预览
+https://github.com/501351981/vue-office
 ### 25.    Pdfvuer
 DF 查看器，使用 Mozilla 的 PDF.js，支持 Vue2 和 Vue3
 https://arkokoley.github.io/pdfvuer/
@@ -100,15 +97,10 @@ Vue3的国际化插件
 https://vue-i18n.intlify.dev/
 ### 32.     vue-cropper
 简单的vue图片裁剪插件
-http://github.xyxiao.cn/vue-cropper/example/
-### 33.     Vue Grid Layout
-Vue.js 的网格布局系统
-https://jbaysolutions.github.io/
-### 34.     Vue Qrcode Reader
-允许在不离开浏览器的情况下检测和解码二维码
-https://gruhn.github.io/vue-qrcode-reader/
+http://github.xyxiao.cn/vue-cropper
 ### 35.     Makeit Captcha
-基于 Vue3 + Vite + Canvas 开发的滑块验证码，动态生成验证滑块，结合后端的二次校验，能有效的避免被抓取模拟验证https://admin.makeit.vip/components/captcha
+基于 Vue3 + Vite + Canvas 开发的滑块验证码，动态生成验证滑块，结合后端的二次校验，能有效的避免被抓取模拟验证
+https://admin.makeit.vip/components/captcha
 ### 36.     vue3-clipboard
 Vue 3 的 clipboard.js
 https://github.com/soerenmartius/vue3-clipboard
@@ -119,8 +111,6 @@ https://sortablejs.github.io/vue.draggable.next/#/simple
 解决移动端（已支持 PC）各种滚动场景需求的插件。
 https://better-scroll.github.io/docs/zh-CN/
 ## 6.相关生态
-### 39.    Vue 插件库
-https://www.vue365.cn/
 ### 40.     Pinia
 轻量级状态管理库，API 设计更接近Vuex 5的提案
 https://pinia.vuejs.org/
@@ -148,4 +138,3 @@ https://motion.vueuse.org/
 用于播放音效的 Vue 组合
 https://sound.vueuse.org/
 
-*XMind: ZEN - Trial Version*
