@@ -27,3 +27,15 @@ source .virtualenvs/bin/activate
 ```bash
 deactivate
 ```
+## pip配置国内镜像
+```
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
+- 清华源：https://pypi.tuna.tsinghua.edu.cn/simple/
+- 豆瓣源：https://pypi.doubanio.com/simple/
+
+## pip命令
+- 升级pip install --upgrade 库名 或 pip install -U 库名
+- 指定版本pip install scipy==0.15.1
+- 查看某个库版本pip list | grep numpy
+- 查看某个库可安装版本pip install numpy==
