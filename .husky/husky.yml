@@ -1,4 +1,0 @@
-pre-push:
- script: "./husky/pre-push.sh"
- only:
-   - main
