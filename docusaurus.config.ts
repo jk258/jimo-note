@@ -77,6 +77,12 @@ const config: Config = {
 					position: 'left',
 					label: 'python',
 				},
+				{
+					type: 'docSidebar',
+					sidebarId: 'SQLSidebar',
+					position: 'left',
+					label: '数据库',
+				},
 				// { to: "/blog", label: "Blog", position: "left" },
 				{
 					href: 'https://github.com/jk258/jimo-note',
